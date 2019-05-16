@@ -8,7 +8,7 @@ package primerosobjetos;
 import java.awt.Color;
 
 /**
- *
+ * Esto es un proyecto nuevo
  * @author meschoyez
  */
 public class PrimerosObjetos {
