@@ -1,0 +1,11 @@
+@startuml
+
+skinparam classAttributeIconSize 0
+class Rectangulo {
+- largo
+- ancho
+
++ Rectangulo (Double, Double, Color)
+}
+
+@enduml
